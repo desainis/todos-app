@@ -1,8 +1,8 @@
-[![Contributors][https://img.shields.io/github/contributors/desainis/todos-app]][]
-[![Forks][https://img.shields.io/github/forks/desainis/todos-app]][]
-[![Stargazers][https://img.shields.io/github/stars/desainis/todos-app]][]
-[![Issues][https://img.shields.io/github/issues/desainis/todos-app]][]
-[![MIT License][https://img.shields.io/github/license/desainis/todos-app]][license-url]
+![Contributors](https://img.shields.io/github/contributors/desainis/todos-app)
+![Forks](https://img.shields.io/github/forks/desainis/todos-app)
+![Stargazers](https://img.shields.io/github/stars/desainis/todos-app)
+![Issues](https://img.shields.io/github/issues/desainis/todos-app)
+![MIT License](https://img.shields.io/github/license/desainis/todos-app)
 
 <!-- PROJECT LOGO -->
 <br />
