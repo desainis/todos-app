@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/desainis/todos-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://vuejs.org/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Todos App</h3>
