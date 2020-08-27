@@ -28,6 +28,8 @@
   </p>
 </p>
 
+![Demo](./images/demo.gif)
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
