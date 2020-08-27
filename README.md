@@ -37,8 +37,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -48,7 +46,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+- This project is meant to be an sample web application on how to manage complex AWS architectures using Ansible. 
 
 ### Built With
 
@@ -80,25 +78,19 @@ npm install npm@latest -g
 git clone https://github.com/desainis/todos-app.git
 ```
 
-2. Install NPM packages
+2. Build the docker image
 
 ```sh
-npm install
+docker build -t <username>/vuejs-todos-app .
 ```
 
-<!-- USAGE EXAMPLES -->
+3. Run the container
 
-## Usage
+```sh
+docker run -it -p 8080:8080 --rm --name vuejs-todos-app desainis/vuejs-todos-app
+```
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/desainis/todos-app/issues) for a list of proposed features (and known issues).
+4. View the app at `http://localhost:8080`
 
 <!-- CONTRIBUTING -->
 
