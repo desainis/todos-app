@@ -1,0 +1,142 @@
+[![Contributors][https://img.shields.io/github/contributors/desainis/todos-app]][]
+[![Forks][https://img.shields.io/github/forks/desainis/todos-app]][]
+[![Stargazers][https://img.shields.io/github/stars/desainis/todos-app]][]
+[![Issues][https://img.shields.io/github/issues/desainis/todos-app]][]
+[![MIT License][https://img.shields.io/github/license/desainis/todos-app]][license-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/desainis/todos-app">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Todos App</h3>
+
+  <p align="center">
+    This sample web application is used to demonstrate how to manage complex AWS Architectures using Ansible.
+    <br />
+    <a href="https://github.com/desainis/todos-app"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/desainis/todos-app">View Demo</a>
+    ·
+    <a href="https://github.com/desainis/todos-app/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/desainis/todos-app/issues">Request Feature</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+### Built With
+
+- [Vue.js](https://vuejs.org/)
+- [RDS](https://www.postgresql.org/)
+- [AWS](https://aws.amazon.com/)
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+- npm
+
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone the repo
+
+```sh
+git clone https://github.com/desainis/todos-app.git
+```
+
+2. Install NPM packages
+
+```sh
+npm install
+```
+
+<!-- USAGE EXAMPLES -->
+
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+See the [open issues](https://github.com/desainis/todos-app/issues) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Project Link: [https://github.com/desainis/todos-app](https://github.com/desainis/todos-app)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+```
+________________________________________
+/ Geerling Guy is Awesome                \
+|                                        |
+|                                        |
+\ -- Some Smart Guy                      /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
