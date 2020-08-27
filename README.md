@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/desainis/todos-app">
     <img src="https://vuejs.org/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Mango.png?hsLang=en-us" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Todos App</h3>
